@@ -44,8 +44,8 @@
 #### 빅분기 캐글 기출별 노트북 공유
 - [5회 캐글 노트북 : 시험 환경 고려](https://www.kaggle.com/code/minjunim/5-lgbm-rmse-1249)
 - [5회 캐글 노트북 : ipynb, 설명 형식](https://www.kaggle.com/code/minjunim/5-xgb-rmse-1240)
-- [4회 캐글 노트북](https://www.kaggle.com/code/minjunim/4-lgbm-0-313)
-- [3회 캐글 노트북](https://www.kaggle.com/code/minjunim/3-lgbm-roc-0-82)
+- [4회 캐글 노트북 : 시험 환경 고려](https://www.kaggle.com/code/minjunim/4-lgbm-0-313)
+- [3회 캐글 노트북 : 시험 환경 고려](https://www.kaggle.com/code/minjunim/3-lgbm-roc-0-82)
 
 
 ### 작업형3
