@@ -1,6 +1,6 @@
 # 빅데이터 분석기사 실기 관련
 - 본 Repository는 빅데이터 분석기사 실기를 공부하면서 개인적으로 정리한 내용입니다.
-- 아래 설명된 내용은 깃허브 내 코드로 더 자세히 보실 수 있습니다.
+- 아래 설명된 내용은 깃허브 내 코드로 더 자세히 보실 수 있습니다!
 
 ## 🏆 6회차 합격 후기 
 <img src="https://i.esdrop.com/d/f/3uJKEwVXJL/8ZxqbDjt3N.jpg" width=500/>
@@ -12,7 +12,7 @@
     - 작업형 3유형은 카이제곱검정에서 적합성 검정과 독립성 검정의 차이를 이해하고 예시 문제들을 풀었던 게 큰 도움이 됐습니다. 
     - 특히 데이터 마님 홈페이지가 큰 도움이 됐습니다!
 
-## 합격 Tip
+## 😄 합격 Tip 
 캐글 빅분기 페이지와 데이터 마님 사이트에 복기된 기출문제들을 주로 다루고, 공부가 더 필요한 부분은 개인적으로 정리했습니다.
 - [캐글](https://www.kaggle.com/datasets/agileteam/bigdatacertificationkr) 
 - [데이터 마님 사이트](https://www.datamanim.com/dataset/ADPpb/prepare.html)
